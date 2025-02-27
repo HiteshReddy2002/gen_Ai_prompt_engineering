@@ -69,31 +69,38 @@ I'm building this research process with a **structured, experimental, and iterat
 
 **By following this structured process, I aim to create a highly adaptive, engaging, and scientifically sound nutrition & fitness bot!** 
 
+#Prompts Used in Research
+
+This research utilizes various advanced prompting techniques to enhance the bot’s reasoning, adaptability, and personalization. Below are the key prompts implemented:
+Chain of Thought (COT) – Step-by-step reasoning for diet and fitness plans.
+Tree of Thoughts (TOT) – Multi-path decision-making for customized guidance.
+Contrastive Prompting – Comparing different diets, exercises, and approaches.
+Few-Shot Prompting – Training the bot with sample responses for better accuracy.
+General Knowledge Prompting – Utilizing broad health and nutrition insights.
+Meta Prompting – Analyzing user queries before generating responses.
+Prompt Chaining – Creating interactive, sequential user engagement.
+Prompt Templates – Using structured templates for consistency.
+Self-Consistency – Generating multiple responses and selecting the best one.
+Zero-Shot Prompting – Answering queries without prior training examples.
 
 # Results
 
 ### **Results Achieved Through Research Process **  
 Fastest Response Time:
 
-Meta Prompting had the fastest response time at 8.077 seconds, making it the most efficient for real-time AI interactions.
-Zero-Shot Prompting followed at 10.688 seconds, but its reasoning quality was lower.
-Best Reasoning Quality:
+#Results & Conclusion
 
-Chain of Thought (COT) and Tree of Thoughts (TOT) scored the highest in reasoning at 10/10, meaning they provide the most structured, logical breakdowns of career decisions.
-Prompt Chaining also performed well in reasoning at 9/10, ensuring logical step-by-step guidance.
-Deepest Response Content:
+After evaluating various prompting techniques, General Knowledge Prompting emerged as the most effective, completing responses in the shortest time (5.956s) while maintaining accuracy and coherence. However, other techniques offer unique strengths:
 
-Tree of Thoughts (TOT) and Prompt Chaining scored the highest in response depth at 9-10/10, meaning they provided the most detailed, structured career recommendations.
-Self-Consistency followed closely with an 8/10 in depth, ensuring multiple perspectives were considered before providing the final response.
-Overall Best Techniques:
-
-Tree of Thoughts (9.5/10 overall score) was one of the top performers, providing structured decision trees for career pathways.
-Prompt Chaining (9.5/10) also excelled by guiding users interactively through the decision-making process.
-Meta Prompting (9.0/10) combined speed with effective personalized recommendations, making it the most balanced choice.
-Final Recommendations:
-If you want the most structured and logical decision-making process, go with Tree of Thoughts.
-If you want an interactive, step-by-step AI assistant, use Prompt Chaining.
-If speed and efficiency are priorities, Meta Prompting is the best choice.
+Chain of Thought (COT): Took 13.73s, provided excellent logical reasoning and structured analysis.
+Tree of Thoughts (TOT): Took 7.111s, excelled at multi-path decision-making with diverse solutions.
+Contrastive Prompting: Took 6.16s, great for comparative analysis of different fitness options.
+Few-Shot Prompting: Took 6.46s, showed high accuracy when provided with training examples.
+Meta Prompting: Took 9.488s, enabled enhanced personalization by analyzing user intent before answering.
+Prompt Chaining: Took 13.982s, created dynamic, interactive responses for a seamless experience.
+Prompt Template: Took 7.287s, used structured and reusable prompts for efficient responses.
+Self-Consistency: Took 5.921s, ensured scientifically sound and reliable answers.
+Zero-Shot Prompting: Took 8.734s, produced immediate responses without requiring specific training examples.
 
 # Further research
 
