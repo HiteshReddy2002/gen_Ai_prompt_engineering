@@ -72,15 +72,25 @@ I'm building this research process with a **structured, experimental, and iterat
 #Prompts Used in Research
 
 This research utilizes various advanced prompting techniques to enhance the bot’s reasoning, adaptability, and personalization. Below are the key prompts implemented:
+
 Chain of Thought (COT) – Step-by-step reasoning for diet and fitness plans.
+
 Tree of Thoughts (TOT) – Multi-path decision-making for customized guidance.
+
 Contrastive Prompting – Comparing different diets, exercises, and approaches.
+
 Few-Shot Prompting – Training the bot with sample responses for better accuracy.
+
 General Knowledge Prompting – Utilizing broad health and nutrition insights.
+
 Meta Prompting – Analyzing user queries before generating responses.
+
 Prompt Chaining – Creating interactive, sequential user engagement.
+
 Prompt Templates – Using structured templates for consistency.
+
 Self-Consistency – Generating multiple responses and selecting the best one.
+
 Zero-Shot Prompting – Answering queries without prior training examples.
 
 # Results
