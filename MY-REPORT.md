@@ -100,16 +100,24 @@ Fastest Response Time:
 
 #Results & Conclusion
 
-After evaluating various prompting techniques, General Knowledge Prompting emerged as the most effective, completing responses in the shortest time (5.956s) while maintaining accuracy and coherence. However, other techniques offer unique strengths:
+After evaluating various prompting techniques, self-consistency Prompting emerged as the most effective, completing responses in the shortest time (5.956s) while maintaining accuracy and coherence. However, other techniques offer unique strengths:
 
 Chain of Thought (COT): Took 13.73s, provided excellent logical reasoning and structured analysis.
+
 Tree of Thoughts (TOT): Took 7.111s, excelled at multi-path decision-making with diverse solutions.
+
 Contrastive Prompting: Took 6.16s, great for comparative analysis of different fitness options.
+
 Few-Shot Prompting: Took 6.46s, showed high accuracy when provided with training examples.
+
 Meta Prompting: Took 9.488s, enabled enhanced personalization by analyzing user intent before answering.
+
 Prompt Chaining: Took 13.982s, created dynamic, interactive responses for a seamless experience.
+
 Prompt Template: Took 7.287s, used structured and reusable prompts for efficient responses.
+
 Self-Consistency: Took 5.921s, ensured scientifically sound and reliable answers.
+
 Zero-Shot Prompting: Took 8.734s, produced immediate responses without requiring specific training examples.
 
 # Further research
